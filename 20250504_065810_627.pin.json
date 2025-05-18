@@ -1,0 +1,32 @@
+{
+  "version": "1.0",
+  "fileInfo": {
+    "hash": "0x6dcf070cee19b6e0ba552cb5ba9ea1086c6bfbb6f4289b1cd245b329296e6751",
+    "name": "20250504_065810_627.jpg",
+    "size": 850426,
+    "mimeType": "image/jpeg"
+  },
+  "pinData": {
+    "originalHash": "0x6dcf070cee19b6e0ba552cb5ba9ea1086c6bfbb6f4289b1cd245b329296e6751",
+    "powHash": "0x0183caf693b9eda45604cad003b24ffeb85e8654218d9328e7af435b15832cc5",
+    "timestamp": 1746508852,
+    "metadata": "",
+    "proof": [
+      "0x0000000000000000000000000000000000000000000000000000000000000008"
+    ]
+  },
+  "pinnerInfo": {
+    "address": "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266"
+  },
+  "blockchainInfo": {
+    "network": "localhost",
+    "networkId": 1337,
+    "contractAddress": "0x1defA77a9bBC720Cddd30E3b070e98E0Bf5eC132",
+    "transactionHash": "0xa7cc524b9c03a7c590e87c0565db66c56dbcbf83a769c5a855ad3263c8aa4016",
+    "blockNumber": 0
+  },
+  "services": {
+    "claimUrl": "https://hashpin.io/claim?hash=0x6dcf070cee19b6e0ba552cb5ba9ea1086c6bfbb6f4289b1cd245b329296e6751",
+    "verifyUrl": "https://hashpin.io/verify?hash=0x6dcf070cee19b6e0ba552cb5ba9ea1086c6bfbb6f4289b1cd245b329296e6751"
+  }
+}
